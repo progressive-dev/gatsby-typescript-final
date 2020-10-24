@@ -10,6 +10,8 @@
 
 This is a starter code for the tutorial. In this tutorial we're going to convert all Gatsby files to TypeScript, and achieve 100% type-checking.
 
+YouTube Video Link: https://youtu.be/Mf8eqNrcZDw
+
 ## 🚀 Quick start
 
     npm run develop
